@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45af79d9-44b4-4156-a312-d98ac94b2b0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/H-Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/다음 큰 숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/더 맵게.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/디스크 컨트롤러.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/큰 수 만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/튜플.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,50 +43,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.H-Index">
-    <configuration name="여행경로" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\algorithm\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/여행경로.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="게리맨더링2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\algorithm\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/게리맨더링2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="H-Index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.디스크 컨트롤러">
+    <configuration name="큰 수 만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +56,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/H-Index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/큰 수 만들기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="디스크 컨트롤러" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/디스크 컨트롤러.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="더 맵게" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/더 맵게.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="다음 큰 숫자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/다음 큰 숫자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="튜플" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/튜플.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,27 +162,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/베스트앨범.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sw역량테스트2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\multicampus\algorithm\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\multicampus\Desktop\algorithm\스킬트리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,19 +192,16 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.게리맨더링2" />
-      <item itemvalue="Python.sw역량테스트2" />
-      <item itemvalue="Python.여행경로" />
+      <item itemvalue="Python.디스크 컨트롤러" />
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.H-Index" />
+      <item itemvalue="Python.튜플" />
+      <item itemvalue="Python.다음 큰 숫자" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.H-Index" />
-        <item itemvalue="Python.게리맨더링2" />
+        <item itemvalue="Python.다음 큰 숫자" />
+        <item itemvalue="Python.튜플" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.여행경로" />
-        <item itemvalue="Python.sw역량테스트2" />
       </list>
     </recent_temporary>
   </component>
@@ -210,38 +231,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1514" height="233" key="GridCell.Tab.0.bottom" timestamp="1608817735616">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608989394615">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.0.bottom/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
-    <state width="1514" height="233" key="GridCell.Tab.0.center" timestamp="1608817735615">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608989394615" />
+    <state width="1040" height="169" key="GridCell.Tab.0.bottom" timestamp="1609252547020">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.0.center/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735615" />
-    <state width="1514" height="233" key="GridCell.Tab.0.left" timestamp="1608817735615">
+    <state width="1040" height="169" key="GridCell.Tab.0.bottom/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547020" />
+    <state width="1040" height="169" key="GridCell.Tab.0.center" timestamp="1609252547019">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.0.left/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735615" />
-    <state width="1514" height="233" key="GridCell.Tab.0.right" timestamp="1608817735616">
+    <state width="1040" height="169" key="GridCell.Tab.0.center/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547019" />
+    <state width="1040" height="169" key="GridCell.Tab.0.left" timestamp="1609252547019">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.0.right/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
-    <state width="1514" height="233" key="GridCell.Tab.1.bottom" timestamp="1608817735616">
+    <state width="1040" height="169" key="GridCell.Tab.0.left/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547019" />
+    <state width="1040" height="169" key="GridCell.Tab.0.right" timestamp="1609252547019">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.1.bottom/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
-    <state width="1514" height="233" key="GridCell.Tab.1.center" timestamp="1608817735616">
+    <state width="1040" height="169" key="GridCell.Tab.0.right/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547019" />
+    <state width="1040" height="169" key="GridCell.Tab.1.bottom" timestamp="1609252547020">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.1.center/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
-    <state width="1514" height="233" key="GridCell.Tab.1.left" timestamp="1608817735616">
+    <state width="1040" height="169" key="GridCell.Tab.1.bottom/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547020" />
+    <state width="1040" height="169" key="GridCell.Tab.1.center" timestamp="1609252547020">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.1.left/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
-    <state width="1514" height="233" key="GridCell.Tab.1.right" timestamp="1608817735616">
+    <state width="1040" height="169" key="GridCell.Tab.1.center/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547020" />
+    <state width="1040" height="169" key="GridCell.Tab.1.left" timestamp="1609252547020">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state width="1514" height="233" key="GridCell.Tab.1.right/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1608817735616" />
+    <state width="1040" height="169" key="GridCell.Tab.1.left/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547020" />
+    <state width="1040" height="169" key="GridCell.Tab.1.right" timestamp="1609252547020">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state width="1040" height="169" key="GridCell.Tab.1.right/0.0.1536.826/1920.0.1536.826@0.0.1536.826" timestamp="1609252547020" />
     <state x="277" y="44" key="SettingsEditor" timestamp="1608805083143">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -261,11 +286,6 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/베스트앨범.py</url>
           <line>46</line>
           <option name="timeStamp" value="7" />
@@ -274,6 +294,11 @@
           <url>file://$PROJECT_DIR$/H-Index.py</url>
           <line>19</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/큰 수 만들기.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
