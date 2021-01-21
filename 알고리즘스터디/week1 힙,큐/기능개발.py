@@ -6,15 +6,15 @@ import math
 def solution(progresses, speeds):
     ans = []
     cnt = 0
-    for i, p in enumerate(progresses):
-        x = math.ceil((100 - p) / speeds[i])
+    for progress, speed in zip(progresses, speeds):
+        period = math.ceil((100 - progress) / speed)
         if cnt == 0:
-            v = x
+            prev = period
             cnt += 1
-        elif x <= v:
+        elif period <= prev:
             cnt += 1
         else:
             ans.append(cnt)
             cnt = 1
-            v = x
+            prev = period
     return ans + [cnt]
